@@ -1,3 +1,6 @@
+#Коротко о приложении
+Роутинг в нем не использовал, так как всего 2 страницы, и переход между ними сделал через useState
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
